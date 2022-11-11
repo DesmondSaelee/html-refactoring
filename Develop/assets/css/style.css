@@ -162,15 +162,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+ img {
     max-height: 200px;
 }
 
@@ -196,6 +188,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
