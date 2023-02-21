@@ -1,6 +1,6 @@
 # challenge-week-1
 
-Deployed Application link: 
+Deployed Application link: https://desmondsaelee.github.io/html-refactoring/
 
 Project description:
 The webpage is to advertise for horiseon and be user friendly.
