@@ -86,20 +86,20 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*change class benefit-lead bottom margin and color*/
+/*change class benefitCLass bottom margin and color*/
 .benefitClass {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*change h3 within benefit-lead class bottom margin and align text in center*/
+/*change h3 within benefitClass bottom margin and align text in center*/
 .benefitClass h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-/*select class benefit-brand then find child element img and apply rules*/
+/*select class benefitClass then find child element img and apply rules*/
 .benefitClass img {
     display: block;
     margin: 10px auto;
@@ -108,7 +108,7 @@ p {
 
 
 
-/*setting rules for search-engine-optimization class*/
+/*setting rules for mainDivs class*/
 .mainDivs {
     margin-bottom: 20px;
     padding: 50px;
